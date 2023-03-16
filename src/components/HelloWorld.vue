@@ -81,7 +81,7 @@ export default {
 
 $char-w: 1ch;
 $gap: .5*$char-w;
-$n-char: 10;
+$n-char: 12;
 $in-w: $n-char*($char-w + $gap);
 
 #registration {
@@ -109,7 +109,7 @@ $in-w: $n-char*($char-w + $gap);
       font-size: 26px;
       font-weight: 700;
       text-align: left;
-      width: 13ch;
+      width: 14.5ch;
       border: 0;
       background: repeating-linear-gradient(
         90deg,
